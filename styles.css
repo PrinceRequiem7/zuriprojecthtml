@@ -1,0 +1,83 @@
+
+
+body{
+    background-image: url(./bg-intro-desktop.png);
+    background-color: palevioletred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+   
+}
+
+
+.container{
+  
+}
+.button-top {
+    background-color: blue;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 28.9%;
+    opacity: 0.9;
+    float: right;
+    border-radius: 3fr;
+    margin-top: -43px;
+    margin-right: 10.3%;
+   justify-items: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   box-shadow:  rgba(0,0,0,0.2),  rgba(0,0,0,0.19);
+}
+
+
+p{
+    color: white;
+    font-size: medium;
+    margin: px 0 ;
+    
+}
+
+.text{
+    font: bold;
+    font-size: large;
+    font-size: 39px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+.form{
+    width: 30%;
+    height: 50vh;
+    padding: 15px;
+    margin-right: 10%;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    float: right;
+
+}
+
+
+input{
+    width: 90%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+   margin-top: -6px;
+}
+
+
+.button-bottom{
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 80%;
+    opacity: 0.9;
+    width: 100%;
+    box-shadow:  rgba(0,0,0,0.2),  rgba(0,0,0,0.19);
+}
